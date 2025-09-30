@@ -17,3 +17,7 @@
     transition: 0.2s;
     box-sizing: border-box;
 }
+a {
+    text-decoration: none;
+    
+}
